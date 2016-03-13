@@ -1,9 +1,0 @@
-D:\materiale Iulia-info\Atestat\Atestat\bin\Debug\Atestat.exe.config
-D:\materiale Iulia-info\Atestat\Atestat\bin\Debug\Atestat.exe
-D:\materiale Iulia-info\Atestat\Atestat\bin\Debug\Atestat.pdb
-D:\materiale Iulia-info\Atestat\Atestat\obj\Debug\Atestat.csprojResolveAssemblyReference.cache
-D:\materiale Iulia-info\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
-D:\materiale Iulia-info\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
-D:\materiale Iulia-info\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
-D:\materiale Iulia-info\Atestat\Atestat\obj\Debug\Atestat.exe
-D:\materiale Iulia-info\Atestat\Atestat\obj\Debug\Atestat.pdb
